@@ -130,4 +130,4 @@ pyobjc-framework-WebKit==6.2.2
 requests==2.24.0
 timeout-decorator==0.4.1
 tqdm==4.47.0
-urllib3==1.25.9
+urllib3==1.26.5
